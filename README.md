@@ -32,12 +32,13 @@ Experienced in integrating **RESTful APIs** and delivering **clean, maintainable
 ---
 
 ### 🛠 Skills
+
 - **Languages & Frameworks:** TypeScript, JavaScript, React.js, React Native, Node.js, HTML, CSS  
 - **UI / Design:** Material-UI  
-- **Databases:** MongoDB, PostgreSQL  
-- **Testing / DevOps:** Jest, Git, Scrum, TDD  
-- **Cloud:** Google Cloud Platform (GCP)  
-- **APIs:** RESTful APIs  
+- **Databases:** MongoDB, PostgreSQL (currently learning)
+- **Testing / Tools:** Jest, Git, TDD  
+- **Cloud:** Google Cloud Platform (GCP)
+- **Methodologies:** Scrum
 
 ---
 
