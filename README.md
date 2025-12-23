@@ -20,7 +20,7 @@ Experienced in integrating **RESTful APIs** and delivering **clean, maintainable
   reliable production code.
 - Developed RESTful APIs using Node.js in a hexagonal architecture, following
   SOLID principles to ensure scalability, maintainability, and clean code practices.
-  Contributed to the development of a legal SaaS platform, delivering multiple
+- Contributed to the development of a legal SaaS platform, delivering multiple
   features from scratch, including PDF report generation.
   - Designed and implemented a custom OCR solution using Document AI to
   automate employment history transcription, reducing manual processing time by
