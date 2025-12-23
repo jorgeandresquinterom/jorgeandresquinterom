@@ -14,14 +14,25 @@ Experienced in integrating **RESTful APIs** and delivering **clean, maintainable
 ### 💼 Professional Experience
 
 **Flip Group – Full-Stack Developer (React.js, React Native, Node.js)** | 08/2022 – Present  
-- Designed and developed 20+ web and mobile interfaces using React and React Native, integrating RESTful APIs to improve user experience.  
-- Applied **Test-Driven Development (TDD)** to implement unit tests, significantly reducing bugs and ensuring reliable production code.  
-- Developed RESTful APIs using Node.js in a **hexagonal architecture**, following SOLID principles for scalability and maintainability.  
-- Contributed to a legal SaaS platform, delivering multiple features from scratch, including PDF report generation.  
-- Designed and implemented a custom OCR solution using Document AI, reducing manual employment history transcription from ~2 hours to ~10 minutes (~90% time saved).  
-- Deployed cloud functions for on-demand OCR execution, cutting hosting costs by 25%.  
-- Contributed to the data mapping team of an educational SaaS platform, implementing algorithm-driven data validation processes.  
-- Developed an accessible iOS app for visually impaired users, managing proper testing, release versioning, and in-app purchase integration.
+- Designed and developed 20+ web and mobile interfaces using React and React
+  Native, integrating RESTful APIs to improve user experience. Applied Test-Driven
+  Development (TDD) to implement unit tests, significantly reducing bugs and ensuring
+  reliable production code.
+- Developed RESTful APIs using Node.js in a hexagonal architecture, following
+  SOLID principles to ensure scalability, maintainability, and clean code practices.
+  Contributed to the development of a legal SaaS platform, delivering multiple
+  features from scratch, including PDF report generation.
+  - Designed and implemented a custom OCR solution using Document AI to
+  automate employment history transcription, reducing manual processing time by
+  ~90% (from 2–2.5 hours to ~10 minutes).
+  - Deployed cloud functions for on-demand OCR execution, cutting hosting costs by
+  25%.
+- Contributed to the data mapping team of an educational SaaS platform, implementing
+algorithm-driven data validation processes. Actively conducted peer code reviews
+and participated in Scrum sprints, completing up to 30 tickets per sprint and over 500
+tickets in total, improving the platform’s data accuracy and validation capabilities.
+- Developed an accessible iOS app for visually impaired users, ensuring proper testing,
+release versioning, and in-app purchase integration.
 
 ---
 
