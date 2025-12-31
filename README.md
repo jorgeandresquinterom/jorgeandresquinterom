@@ -39,7 +39,7 @@ release versioning, and in-app purchase integration.
 ### 💼 Selected Projects & Contributions
 
 📱 Accessible iOS Translation App for Visually Impaired Users
-🔗 App Store – Spelling for the Blind
+🔗 [App Store – Spelling for the Blind] (https://apps.apple.com/kh/app/spelling-for-the-blind/id6450370752)
 
 Contributed to the development of an iOS application for text and PDF document translation, specifically designed to support visually impaired users.
 
