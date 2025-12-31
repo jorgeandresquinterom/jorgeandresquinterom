@@ -38,29 +38,6 @@ release versioning, and in-app purchase integration.
 
 ### 💼 Selected Projects & Contributions
 
-### 📱 [Accessible iOS Translation App for Visually Impaired Users](https://apps.apple.com/kh/app/spelling-for-the-blind/id6450370752)
-
-Contributed to the development of an iOS application for text and PDF document translation, specifically designed to support visually impaired users.
-
-A key differentiating feature of the app is the letter-by-letter (spelling) pronunciation of translated words, enabling users to understand how words are written, not just how they sound — a capability rarely available in traditional translation apps.
-
-Key contributions:
-
-- Designed and implemented accessible user interfaces.
-
-- Implemented text-to-speech spelling functionality for translated content, improving word comprehension.
-
-- Integrated REST APIs and contributed to the development of a GraphQL API.
-(GraphQL is not my primary area of expertise, but it was successfully implemented to meet project requirements).
-
-- Conducted testing and validation using TestFlight, with a focus on accessibility and stability.
-
-- Supported release versioning and deployment processes.
-
-- Integrated and tested In-App Purchases (IAP).
-
-This project combined accessibility, language technology, and mobile development, delivering meaningful impact for users with visual impairments.
-
 ### ⚖️ [Legal SaaS Platform – Document Automation & Pension Calculations](https://www.clubdealejandria.store/)
 
 Contributed extensively to the development of a legal SaaS platform, delivering multiple features end-to-end across frontend, backend, and cloud infrastructure, with a strong focus on automation, performance, and user experience.
@@ -89,6 +66,29 @@ The frontend renders this structure by recursively traversing a category tree, e
 - Participated in requirements gathering and business analysis, gaining deep domain knowledge and proposing solutions that balanced developer experience and end-user usability.
 
 This project strengthened my experience in scalable SaaS development, document automation, and business-driven software design.
+
+### 📱 [Accessible iOS Translation App for Visually Impaired Users](https://apps.apple.com/kh/app/spelling-for-the-blind/id6450370752)
+
+Contributed to the development of an iOS application for text and PDF document translation, specifically designed to support visually impaired users.
+
+A key differentiating feature of the app is the letter-by-letter (spelling) pronunciation of translated words, enabling users to understand how words are written, not just how they sound — a capability rarely available in traditional translation apps.
+
+Key contributions:
+
+- Designed and implemented accessible user interfaces.
+
+- Implemented text-to-speech spelling functionality for translated content, improving word comprehension.
+
+- Integrated REST APIs and contributed to the development of a GraphQL API.
+(GraphQL is not my primary area of expertise, but it was successfully implemented to meet project requirements).
+
+- Conducted testing and validation using TestFlight, with a focus on accessibility and stability.
+
+- Supported release versioning and deployment processes.
+
+- Integrated and tested In-App Purchases (IAP).
+
+This project combined accessibility, language technology, and mobile development, delivering meaningful impact for users with visual impairments.
 
 ---
 
