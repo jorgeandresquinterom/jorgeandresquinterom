@@ -36,6 +36,34 @@ release versioning, and in-app purchase integration.
 
 ---
 
+### 💼 Selected Projects & Contributions
+
+📱 Accessible iOS Translation App for Visually Impaired Users
+🔗 App Store – Spelling for the Blind
+
+Contributed to the development of an iOS application for text and PDF document translation, specifically designed to support visually impaired users.
+
+A key differentiating feature of the app is the letter-by-letter (spelling) pronunciation of translated words, enabling users to understand how words are written, not just how they sound — a capability rarely available in traditional translation apps.
+
+Key contributions:
+
+- Designed and implemented accessible user interfaces.
+
+- Implemented text-to-speech spelling functionality for translated content, improving word comprehension.
+
+- Integrated REST APIs and contributed to the development of a GraphQL API.
+(GraphQL is not my primary area of expertise, but it was successfully implemented to meet project requirements).
+
+- Conducted testing and validation using TestFlight, with a focus on accessibility and stability.
+
+- Supported release versioning and deployment processes.
+
+- Integrated and tested In-App Purchases (IAP).
+
+This project combined accessibility, language technology, and mobile development, delivering meaningful impact for users with visual impairments.
+
+---
+
 ### 🎓 Education
 - **Mechanical Engineer** – Universidad Industrial de Santander, Colombia (2016–2022)  
 - **Intensive English Program (IEP) – Advanced High Level** – Valencia College, Orlando, USA (2022–2023)
