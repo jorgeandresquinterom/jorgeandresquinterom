@@ -61,7 +61,7 @@ Key contributions:
 
 This project combined accessibility, language technology, and mobile development, delivering meaningful impact for users with visual impairments.
 
-### ⚖️ [Legal SaaS Platform – Document Automation & Pension Calculations] (https://www.clubdealejandria.store/)
+### ⚖️ [Legal SaaS Platform – Document Automation & Pension Calculations](https://www.clubdealejandria.store/)
 
 Contributed extensively to the development of a legal SaaS platform, delivering multiple features end-to-end across frontend, backend, and cloud infrastructure, with a strong focus on automation, performance, and user experience.
 
