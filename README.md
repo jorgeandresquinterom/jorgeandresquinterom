@@ -61,6 +61,35 @@ Key contributions:
 
 This project combined accessibility, language technology, and mobile development, delivering meaningful impact for users with visual impairments.
 
+### ⚖️ [Legal SaaS Platform – Document Automation & Pension Calculations] (https://www.clubdealejandria.store/)
+
+Contributed extensively to the development of a legal SaaS platform, delivering multiple features end-to-end across frontend, backend, and cloud infrastructure, with a strong focus on automation, performance, and user experience.
+
+Key contributions:
+
+- Designed and implemented a significant portion of the user interfaces, including:
+
+- Admin dashboards for managing educational content (articles, books, and categories).
+
+- End-user interfaces for consuming and navigating educational content.
+
+- Built a dynamic, recursive category system, allowing administrators to create unlimited nested categories.
+The frontend renders this structure by recursively traversing a category tree, enabling flexible and scalable content classification.
+
+- Developed PDF report generation for a pension calculation tool, which uses React Context API for state management, enabling consistent data flow across complex calculation steps.
+
+- Designed and implemented a custom OCR solution using Google Document AI to automatically extract data from Colombian employment history documents, reducing manual processing time by approximately 90% (from 2–2.5 hours to ~10 minutes).
+
+- Deployed cloud functions for on-demand OCR execution, reducing hosting costs by 25%.
+
+- Integrated multiple backend APIs, working within a hexagonal architecture–based core system.
+
+- Implemented unit and integration tests for selected backend endpoints to ensure reliability and maintainability.
+
+- Participated in requirements gathering and business analysis, gaining deep domain knowledge and proposing solutions that balanced developer experience and end-user usability.
+
+This project strengthened my experience in scalable SaaS development, document automation, and business-driven software design.
+
 ---
 
 ### 🎓 Education
